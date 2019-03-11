@@ -1,2 +1,5 @@
 # hello-world
-Navjot singh, sing6268, 991482794, Davis
+Navjot singh, 
+username - sing6268, 
+student id - 991482794, 
+campus - Davis
